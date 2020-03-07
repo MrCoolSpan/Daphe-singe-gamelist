@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./crimepatrol.daphne</path>
+		<name>Crime Patrol</name>
+                <desc>Crime Patrol puts the player in the shoes of a police officer, who starts as a Rookie and has to work his way up to become a member of SWAT and eventually the Delta Force team. To do that, he has to complete missions, which involve taking down criminals in a variety of locations. Beginning with smaller-scale criminals (such as shoplifters), the hero will later have to face gangsters, drug lords, and eventually terrorists. For each set of missions, the player characters is being teamed up with another police officer. The gameplay is quite similar to any other of the large live-action laser-gun games found in the arcades - all the player has to do is take the gun (or the mouse in the computer version) and show those criminals who's the boss!</desc>
+		<image>./mixart/crimepatrol.png</image>
+		<video>./snap/crimepatrol.mp4</video>
+		<marquee>./wheel/crimepatrol.png</marquee>
+		<rating />
+		<releasedate />
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Action;Shooter</genre>
+		<players>2</players>
+	</game>
+        <game>
+		<path>./drugwars.daphne</path>
+		<name>Drug Wars</name>
+                <desc>Targeting the entire illegal drug distribution chain is truly an international war. Drug Wars will take you through it all from small town traffickers to big city organized cartels. You will be involved with the border patrol tracking international drug runners. If your shooting skills are good enough, you'll be assigned to South America to destroy the source and capture the drug king.</desc>
+		<image>./mixart/drugwars.png</image>
+		<video>./snap/drugwars.mp4</video>
+		<marquee>./wheel/drugwars.png</marquee>
+		<rating />
+		<releasedate />
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./hayate.daphne</path>
+		<name>Ninja Hayate</name>
+                <desc>The story takes place in Japan, you play as Hayate, a young up and coming ninja warrior out to stop the evil of Lougi and his army of ghouls and goblins. You are out to avenge your father's death as well as the emperor and rescue your girlfriend from the clutches of evil and bring an end to the terror visited upon your lands.
+
+Some of the villains you face are Marco Killmore (a half man, half eagle samurai warrior), Zallen (a disgraced samurai warrior out to destroy Hayate), Vengor (a stone shiva-type character), Desfal (a medusa-like woman), Destroyer MPK (a possessed collection of samurai armor) and of course the evil samurai knight himself, Lougi.
+
+To play the game you must press the corresponding buttons on the screen at a certain time, such as pressing left to go left or possibly to avoid a enemies weapon or pressing one of the regular buttons to draw your weapon and attack a certain enemy, much like Dragon's Lair and Space Ace. There are three difficulty levels, each one giving you a certain amount of time to press the buttons, the hardest setting giving you the least amount of time.</desc>
+		<image>./mixart/hayate.png</image>
+		<video>./snap/hayate.mp4</video>
+		<marquee>./wheel/hayate.png</marquee>
+		<rating />
+		<releasedate />
+		<developer>American Laser Games</developer>
+		<publisher>Taito Corporation</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./johnnyrock.daphne</path>
+		<name>Who Shot Johnny Rock</name>
+                <desc>Another live-actor arcade shooter by American Laser Games (makers of Mad Dog McCree and Crime Patrol), Who Shot Johnny Rock is set in the classic 1920's style gangster era.
+
+As the title suggests, you're supposed to find out who shot singer Johnny Rock (or at least who hired the guys who shot him) and put them behind bars.
+
+There are some differences between this game and previous American Laser Games shooters. Instead of a wimpy pistol, you get a tommy gun (which doesn't need to be reloaded). Unfortunately, you also have limited ammo and need to buy more at times. Instead of lives you have a fixed supply of money, and each time you die you lose some cash. Lose it all and it's game over.</desc>
+		<image>./mixart/johnnyrock.png</image>
+		<video>./snap/johnnyrock.mp4</video>
+		<marquee>./wheel/johnnyrock.png</marquee>
+		<rating />
+		<releasedate />
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./lbh.daphne</path>
+		<name>The Last Bounty Hunter</name>
+                <desc>An interactive shooting game that takes place in the Old West. You play a bounty hunter who goes after the territory's four most wanted outlaws: Handsome Harry, Nasty Dan, El Loco, and The Cactus Kid, along with their respective gangs. Bring them in dead or alive, but the rewards are greater if they are captured alive.</desc>
+		<image>./mixart/lbh.png</image>
+		<video>./snap/lbh.mp4</video>
+		<marquee>./wheel/lbh.png</marquee>
+		<rating />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./maddog.daphne</path>
+		<name>Mad Dog</name>
+                <desc>Mad Dog McCree is the first live-action laserdisc video game released by American Laser Games. It originally appeared as an arcade game[1] in 1990.
+
+It gained considerable attention for its real-video style, bearing similarities to contemporary Hollywood westerns.</desc>
+		<image>./mixart/maddog.png</image>
+		<video>./snap/maddog.mp4</video>
+		<marquee>./wheel/maddog.png</marquee>
+		<rating />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./maddog2.daphne</path>
+		<name>Mad Dog 2</name>
+                <desc>The sequel to American Laser Game's original Mad Dog McCree, with pretty much the same gameplay and motion capture graphics. This PC conversion seems to have been tweaked a bit to be more stable than the original Mad Dog. There's also somewhat limited replay value as you can choose from 3 different guides for 3 different routes through the game.</desc>
+		<image>./mixart/maddog2.png</image>
+		<video>./snap/maddog2.mp4</video>
+		<marquee>./wheel/maddog2.png</marquee>
+		<rating />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./spacepirates.daphne</path>
+		<name>Space Pirates</name>
+                <desc>Another in the series of slugfest games by American Laser Games is Space Pirates. While it resembles The Last Bounty Hunter and Drug Wars, it is science-fiction oriented and presents a space theme.</desc>
+		<image>./mixart/spacepirates.png</image>
+		<video>./snap/spacepirates.mp4</video>
+		<marquee>./wheel/spacepirates.png</marquee>
+		<rating />
+		<releasedate>19910616T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./timegal.daphne</path>
+		<name>TimeGal</name>
+                <desc>Time Gal (Japanese: タイムギャル, Hepburn: Taimu Gyaru) is an interactive movie video game developed and published by Taito, and originally released in Japan for the arcades in 1985. It is an action game which uses full motion video (FMV) to display the on-screen action. The player must correctly choose the on-screen character's actions to progress the story. The pre-recorded animation for the game was produced by Toei Animation.</desc>
+		<image>./mixart/timegal.png</image>
+		<video>./snap/timegal.mp4</video>
+		<marquee>./wheel/timegal.png</marquee>
+		<rating />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./timetraveler-v2.daphne</path>
+		<name>Time Travler</name>
+                <desc>ime Traveler or Hologram Time Traveler is a stereographic laserdisc FMV arcade game released in 1991 by Sega and designed by Dragon's Lair creator Rick Dyer. It is called the "World's First Holographic Video Game"[1] because it uses a special arcade cabinet that projects the game's characters. The "holographic" effect is an optical illusion using a large curved mirror (invented by Dentsu) and a CRT television set.
+
+The game's premise is that American old west cowboy Marshal Gram (played by Stephen Wilber, also hired to coordinate the game's stunts) is required to save the universe from scientist turned evil time lord Vulcor, who's found a way to manipulate and distort time itself; and to also rescue Princess Kyi-La of the Galactic Federation, whom Vulcor is holding prisoner in his quest to disrupt the flow of time. The player must pursue the villain across time through the ages overcoming various obstacles along the way while undoing all the damage done by Vulcor. The game's action sequences were filmed in San Diego, California, with forty actors and a small production crew of about five people headed by Producer/Director Mark E. Watson of Fallbrook, California.[1] The game takes place across many iconic settings from different time periods. All the game's footage was shot as if it were a live action movie. Few props were used during filming as the actors had to imagine fantastical locations while being filmed in front of a green screen stage. Some actors performed multiple roles, for example, the same actor played the obese "amazon queen" in the bonus DVD features and a chainsaw-wielding character in the game. The game's special effects, music and character voices were later added at a special effects studio in Carlsbad, California.
+
+In 2001, a non-stereographic version was published by Digital Leisure in PC CD-ROM and standard DVD format.
+Time Traveler's gameplay is similar to Dragon's Lair. The player moves a joystick in a specific direction or presses a button at certain points in the game. By entering the right command, a movie clip plays showing the player's character progression through the game, while the wrong move results in a unique death scene for each segment. Time Traveler is different from Dragon's Lair by offering lots of supportive help. For example, the game shows hints through a short video clip after losing a life. It also offers a short tutorial available at the beginning of the game.
+
+The player controls consist of a 4-way joystick, an action button and a time reversal button. The latter is a feature that allows the player to rewind and repeat the last couple of seconds of a failed segment. This gives the player a second chance to try and escape his death without having to repeat the complete FMV sequence all over again. Between levels, players can buy more time-reversal cubes by inserting more coins into the arcade machine.
+
+The game starts with three lives and one time-reversal cube. Gameplay keeps going until the player loses all of their lives or completes the game. It also encourages players to insert more coins by allowing continues and the option to purchase additional time reversal cubes. Being an arcade game, it is designed with a hard difficulty setting and for short gameplay time. Assuming the player successfully memorizes the majority of the FMV sequences, then the game takes about ten minutes to complete.
+
+Time Traveler offers a total of seven levels called "time periods". Every level has a time era theme (e.g. pre-historic, Middle Ages, the future) except one fictional one represented by symbols called the Age of Magic. Time periods consists of a number of FMV sequences, usually three. Completion or failure of a level returns the player back to the level menu. To minimize repetition the game randomizes the order FMV sequences play within a level. It also allows the player to choose the order in which to play the time periods up to a certain degree. Later time periods are not accessible until the player completes a required amount of levels.
+
+As the game progresses players randomly encounter a mini-game called "Hellgate". In this mini-game the player can bet a life to win extra lives or even a free credit. The game consists of a slot machine where the mini game takes its name from. Depending on the outcome, the game awards or penalizes the player by giving or taking away lives. One of the outcomes makes the player lose the entire game, not just Hellgate. Expert arcade players usually avoid playing this game as the odds were heavily stacked against them resulting mostly with losing lives rather than winning bonuses.</desc>
+		<image>./mixart/timetraveler.png</image>
+		<video>./snap/timetraveler.mp4</video>
+		<marquee>./wheel/timetraveler.png</marquee>
+		<rating />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+</gameList>
